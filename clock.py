@@ -16,7 +16,3 @@ label.pack(anchor='center')
 time()
 
 mainloop()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
